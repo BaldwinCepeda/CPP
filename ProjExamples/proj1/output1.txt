@@ -1,0 +1,24 @@
+** Printing data before sorting **
+18
+99
+12
+36
+14
+45
+54
+6
+213
+23
+72
+** Printing data after sorting **
+6
+12
+14
+18
+23
+36
+45
+54
+72
+99
+213

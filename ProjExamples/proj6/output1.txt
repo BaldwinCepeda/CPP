@@ -1,0 +1,6 @@
+** calling buildStack() **
+** Printing the stack after buildStack **
+Stack (top): (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** calling buildQueue() **
+** Printing the queue after buildQueue **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) (tail) NULL

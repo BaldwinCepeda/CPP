@@ -1,0 +1,126 @@
+Entering countData()
+Leaving countData(), count = 11
+Entering loadData()
+Leaving loadData()
+Entering selectionSort()
+** After 0 iteration of selection sort **
+6
+99
+12
+36
+14
+45
+54
+18
+213
+23
+72
+** After 1 iteration of selection sort **
+6
+12
+99
+36
+14
+45
+54
+18
+213
+23
+72
+** After 2 iteration of selection sort **
+6
+12
+14
+36
+99
+45
+54
+18
+213
+23
+72
+** After 3 iteration of selection sort **
+6
+12
+14
+18
+99
+45
+54
+36
+213
+23
+72
+** After 4 iteration of selection sort **
+6
+12
+14
+18
+23
+45
+54
+36
+213
+99
+72
+** After 5 iteration of selection sort **
+6
+12
+14
+18
+23
+36
+54
+45
+213
+99
+72
+** After 6 iteration of selection sort **
+6
+12
+14
+18
+23
+36
+45
+54
+213
+99
+72
+** After 7 iteration of selection sort **
+6
+12
+14
+18
+23
+36
+45
+54
+213
+99
+72
+** After 8 iteration of selection sort **
+6
+12
+14
+18
+23
+36
+45
+54
+72
+99
+213
+** After 9 iteration of selection sort **
+6
+12
+14
+18
+23
+36
+45
+54
+72
+99
+213
+Leaving selectionSort()

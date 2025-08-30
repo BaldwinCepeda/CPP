@@ -1,0 +1,76 @@
+** Entering buildStack() **
+Input data is 799
+** Printing Stack after push **
+Stack (top): (799, null) NULL
+Input data is 44
+** Printing Stack after push **
+Stack (top): (44, 799) (799, null) NULL
+Input data is 702
+** Printing Stack after push **
+Stack (top): (702, 44) (44, 799) (799, null) NULL
+Input data is 838
+** Printing Stack after push **
+Stack (top): (838, 702) (702, 44) (44, 799) (799, null) NULL
+Input data is 91
+** Printing Stack after push **
+Stack (top): (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+Input data is 32
+** Printing Stack after push **
+Stack (top): (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+Input data is 333
+** Printing Stack after push **
+Stack (top): (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+Input data is 888
+** Printing Stack after push **
+Stack (top): (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+Input data is 999
+** Printing Stack after push **
+Stack (top): (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Leaving buildStack() **
+** Entering buildQueue() **
+** Node popped from stack: 999 **
+** Printing stack after pop **
+Stack (top): (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, null) (tail) NULL
+** Node popped from stack: 888 **
+** Printing stack after pop **
+Stack (top): (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, null) (tail) NULL
+** Node popped from stack: 333 **
+** Printing stack after pop **
+Stack (top): (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, null) (tail) NULL
+** Node popped from stack: 32 **
+** Printing stack after pop **
+Stack (top): (91, 838) (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, null) (tail) NULL
+** Node popped from stack: 91 **
+** Printing stack after pop **
+Stack (top): (838, 702) (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, null) (tail) NULL
+** Node popped from stack: 838 **
+** Printing stack after pop **
+Stack (top): (702, 44) (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, null) (tail) NULL
+** Node popped from stack: 702 **
+** Printing stack after pop **
+Stack (top): (44, 799) (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, null) (tail) NULL
+** Node popped from stack: 44 **
+** Printing stack after pop **
+Stack (top): (799, null) NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, null) (tail) NULL
+** Node popped from stack: 799 **
+** Printing stack after pop **
+Stack (top): NULL
+** Printing Queue after insert **
+Queue (head): (-999, 999) (999, 888) (888, 333) (333, 32) (32, 91) (91, 838) (838, 702) (702, 44) (44, 799) (799, null) (tail) NULL
+** Leaving buildQueue() **
